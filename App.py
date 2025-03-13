@@ -4,7 +4,7 @@ import numpy as np
 import streamlet as st
 
 
-st..title("this is my streamlit app fpr 13 march")
+st..title("this is my streamlit app for 13 march")
 st.heading ("this modolu code EDAB6808")
 ST.subheading("Thisnisna fun and interactive module")
 
