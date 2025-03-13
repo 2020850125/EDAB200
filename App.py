@@ -5,8 +5,8 @@ import streamlet as st
 
 
 st..title("this is my streamlit app for 13 march")
-st.heading ("this modolu code EDAB6808")
-ST.subheading("Thisnisna fun and interactive module")
+st.header ("this modolu code EDAB6808")
+ST.subheader("Thisnisna fun and interactive module")
 
             
 # Generate random time series data
@@ -21,6 +21,7 @@ if variable
   ax.set_xlabel("units")
   ax.set_ylabel("value")
   st.pyplot(fig)
+
 
 
 # Plot the time series
